@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Adacitin Test Suite" duration-ms="3059" started-at="2021-02-12T08:26:40Z" finished-at="2021-02-12T08:26:43Z">
+    <groups>
+    </groups>
+    <test name="Search Hotel" duration-ms="1947" started-at="2021-02-12T08:26:40Z" finished-at="2021-02-12T08:26:42Z">
+      <class name="testCase.Test_Search_Hotel">
+        <test-method status="PASS" signature="searchHotel()[pri:0, instance:testCase.Test_Search_Hotel@7ac7a4e4]" name="searchHotel" duration-ms="1938" started-at="2021-02-12T13:56:40Z" finished-at="2021-02-12T13:56:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchHotel -->
+      </class> <!-- testCase.Test_Search_Hotel -->
+    </test> <!-- Search Hotel -->
+    <test name="Select Hotel" duration-ms="671" started-at="2021-02-12T08:26:42Z" finished-at="2021-02-12T08:26:42Z">
+      <class name="testCase.Test_Select_Hotel">
+        <test-method status="PASS" signature="selectHotel()[pri:0, instance:testCase.Test_Select_Hotel@7dc7cbad]" name="selectHotel" duration-ms="670" started-at="2021-02-12T13:56:42Z" finished-at="2021-02-12T13:56:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectHotel -->
+      </class> <!-- testCase.Test_Select_Hotel -->
+    </test> <!-- Select Hotel -->
+    <test name="Book Hotel" duration-ms="424" started-at="2021-02-12T08:26:42Z" finished-at="2021-02-12T08:26:43Z">
+      <class name="testCase.Test_Book_Hotel">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testCase.Test_Book_Hotel@20e2cbe0]" name="launchBrowser" is-config="true" duration-ms="9129" started-at="2021-02-12T13:56:31Z" finished-at="2021-02-12T13:56:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="bookHotel()[pri:0, instance:testCase.Test_Book_Hotel@20e2cbe0]" name="bookHotel" duration-ms="423" started-at="2021-02-12T13:56:42Z" finished-at="2021-02-12T13:56:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookHotel -->
+      </class> <!-- testCase.Test_Book_Hotel -->
+    </test> <!-- Book Hotel -->
+  </suite> <!-- Adacitin Test Suite -->
+</testng-results>

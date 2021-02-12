@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name = "Adacitin Test Suite" >
+<test name = "Search Hotel">
+<classes>
+      <class name="testCase.Test_Search_Hotel"/>
+    </classes>
+</test>
+<test name = "Select Hotel">
+ <classes>
+      <class name="testCase.Test_Select_Hotel"/>
+    </classes>
+</test>
+<test name = "Book Hotel">
+ <classes>
+      <class name="testCase.Test_Book_Hotel"/>
+    </classes>
+</test>
+
+</suite>             

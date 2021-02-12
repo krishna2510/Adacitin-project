@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Adacitin Test Suite]">
+  <test name="Search Hotel(failed)">
+    <classes>
+      <class name="testCase.Test_Search_Hotel">
+        <methods>
+          <include name="searchHotel"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- testCase.Test_Search_Hotel -->
+    </classes>
+  </test> <!-- Search Hotel(failed) -->
+</suite> <!-- Failed suite [Adacitin Test Suite] -->
